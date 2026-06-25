@@ -1,0 +1,6 @@
+# Ignore python compiled bytecode
+__pycache__/
+*.pyc
+
+# Ignore local I D E configs
+.vscode/
